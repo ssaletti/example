@@ -1,8 +1,8 @@
 +++
 title = "Creating a New"
-description = "This is a description"
+description = "This is a description."
 date = 2014-09-28T02:13:50Z
-author = "Michael Henderson"
+author = "Simone Saletti"
 +++
 
 ## Introduction
