@@ -2,7 +2,7 @@
 title = "Creating a New"
 description = "This is a description."
 date = 2014-09-28T02:13:50Z
-author = "Simone Saletti"
+author = "Simone Saletti per un test"
 +++
 
 ## Introduction
