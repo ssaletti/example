@@ -1,6 +1,6 @@
 +++
 title = "Creating a New"
-description = "Description of my awesome project."
+description = "This is a description"
 date = 2014-09-28T02:13:50Z
 author = "Michael Henderson"
 +++
