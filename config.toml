@@ -2,7 +2,6 @@ baseURL = "https://ssaletti.github.io/example/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "ananke"
-publishDir = "docs"
 
 
 [Params]
